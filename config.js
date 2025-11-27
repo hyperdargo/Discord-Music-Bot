@@ -1,9 +1,9 @@
 module.exports = {
     prefix: '!',
     nodes: [{
-        host: "46.202.82.164",
-        password: "jmlitelavalink",
-        port: 1027,
+        host: "panel.ankitgupta.com.np",
+        password: "DTEmpire",
+        port: 25574,
         secure: false,
         name: "Main Node"
     }],
